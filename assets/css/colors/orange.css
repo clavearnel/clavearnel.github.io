@@ -1,0 +1,22 @@
+.jtbutton a span, .about-box:hover .about-icon:before, .about-box:hover .about-icon:after, .form-btn:hover, .social:hover, #backtotop a:hover, .package:hover .circle2, .package:hover .circle3 {
+    background-color: #Fe7e17;
+}
+
+.home-content h1 span, .about .header span, .nav > li > a:hover, a, a:hover, a:focus, .about-icon i, .colored , .factor, #going_down a:hover,.footer a:hover{
+    color: #Fe7e17;
+}
+
+.nav > li > a:hover {
+    border-bottom: 2px solid #Fe7e17;
+}
+
+.form-btn:hover {
+    border-bottom: 1px solid #Fe7e17;
+}
+
+ .skills .progress .progress-bar {
+    background-color: #Fe7e17;
+}
+.pic img:hover{
+    border: solid #Fe7e17 5px;
+}

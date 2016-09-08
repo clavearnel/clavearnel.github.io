@@ -1,0 +1,490 @@
+/*Home*/
+
+/*overlay section with stripes*/
+
+.bg-overlay {
+    background: url(../images/pattern.png) repeat rgba(0, 0, 0, 0.6);
+    padding: 0
+}
+
+.logo {
+    padding-top: 10%;
+}
+
+/*home bg animation */
+
+@keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: -31000px 0;
+    }
+}
+
+@-moz-keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: -31000px 0;
+    }
+}
+
+@-webkit-keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: -31000px 0;
+    }
+}
+
+@-ms-keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: -31000px 0;
+    }
+}
+
+@-o-keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: -31000px 0;
+    }
+}
+#animate-area img {
+    width: 100%;
+    height: 100%;
+}
+
+#animate-area {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background-image: url(../images/bg-home1.jpg);
+    background-position: 0px 0px;
+    background-repeat: repeat-x;
+    animation: animatedBackground 666s linear infinite;
+    -moz-animation: animatedBackground 666s linear infinite;
+    -webkit-animation: animatedBackground 666s linear infinite;
+    -ms-animation: animatedBackground 666s linear infinite;
+    -o-animation: animatedBackground 666s linear infinite;
+}
+.home-content {
+    /* position: absolute; */
+    /* left: 50%; */
+    /*-moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    translate*/
+    /* top: 35%; */
+}
+
+.home-content .logowrap {
+    margin: 20px 0 40px;
+    overflow: hidden;
+}
+
+.home-content h1 {
+    font-size: 510%;
+    color: #ffffff;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+.home-content .lead {
+    color: #ffffff;
+    margin: 20px 0 40px;
+}
+
+.home-content h3 {
+    font-size: 31px;
+    color: #ffffff;
+    margin-top: 0;
+    text-transform: uppercase
+}
+
+.home-content h1 {
+    font-size: 510%;
+    color: #ffffff;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+.home-content .lead {
+    color: #ffffff;
+    margin: 20px 0 40px;
+}
+
+/* end home*/
+/* About Icon Styles */
+/* About */
+
+.pic{
+    text-align: center;
+}
+
+.pic div{
+    display: block;
+    padding: 6px;
+}
+
+
+.pic img{
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
+
+.pic img{
+    border: solid #2a2d38 5px;
+}
+
+.about a:hover{
+    color:#2a2d38;
+}
+/*skills*/
+.package{
+    text-align: center;
+}
+
+.package div{
+    display: block;
+    padding: 10px;
+}
+
+.package .circle1{
+    position: relative;
+    margin: 0 auto;
+    border:1px dashed #000000;
+    width: 117px;
+    height: 117px;
+    padding: 0;
+}
+.package .circle2{
+    position: relative;
+    background: #2a2d38;
+    width: 100px;
+    height: 100px;
+    margin: 7px;
+    padding: 10px;
+    border:none;
+}
+.package .circle3{
+    position: relative;
+    background: transparent;
+    border:1px dashed #ffffff;
+    width: 80px;
+    height: 80px;
+    color: #ffffff;
+    text-align: center;
+}
+.package .circle1,
+.package .circle2,
+.package .circle3{
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
+.circle3 h1{
+    font-size: 33px;
+}
+.circle3 p{
+    font-size: 12px;
+    font-weight: 500;
+}
+.package ul{
+    margin-top: 5px;
+    padding:0 0 15px 0;
+    list-style-type: none;
+}
+.package ul li{
+    padding:5px 0 5px 0;
+    font-weight: 400;
+}
+.package .tittle {
+    border-left: none;
+    border-right: none;
+    border-top:1px solid #2a2d38;
+    border-bottom: 1px solid #2a2d38;
+    margin: 30px 40px 20px 40px;
+    padding: 0 20px 8px;
+    display: block;
+}
+.package .tittle h6{
+    padding: 0;
+    margin: 4px 0 0 0;
+    display: inline-block;
+}
+.package .tittle span{
+    display: block;
+    width: 80px;
+    text-align: center;
+    margin: -15px auto 0 auto;
+    background: #F5F5F5;
+    font-size: 10px;
+}
+.package .tittle span i{
+    letter-spacing: 5px;
+}
+.package .tittle span i:last-child{
+    letter-spacing: 0;
+}
+
+.package:hover div{
+    background: #ffffff;
+}
+
+.package:hover .tittle span{
+    background: #ffffff;
+    color: #ee3448;
+}
+.package:hover .btn-light{
+    background: #ee3448;
+    color: #ffffff;
+}
+/*end skills*/
+/*Portfolio*/
+/* Portfolio Filters */
+.filter-menu {
+    text-align: center;
+    margin: 15px auto 30px;
+}
+
+.filter-menu ul li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.filter-menu ul li a {
+    padding: 7px 16px;
+    text-transform: uppercase;
+    background: transparent;
+    border: 1px solid #9f9f9f;
+    color: #555555;
+    font-size: 11px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.filter-menu ul li a:hover {
+    background: #313131;
+    border: 1px solid #313131;
+    color: white;
+    text-decoration: none;
+}
+
+.portfolio-items {
+    height: auto;
+    width: 100.1%;
+    overflow: hidden;
+    position: relative;
+}
+
+.filter-menu ul li a.selected {
+    background: #313131;
+    border: 1px solid #313131;
+    color: white;
+}
+
+/* Portfolio Items */
+
+.portfolio .portfolio-items {
+    margin-top: 35px;
+    width: 100.1%;
+}
+
+.portfolio .portfolio-items .item {
+    height: auto;
+    background: #1a1a1a;
+}
+
+.portfolio .portfolio-items .item a.work-image {
+    display: block;
+    overflow: hidden;
+}
+
+.portfolio .portfolio-items .item a.work-image img {
+    width: 100%;
+    height: auto;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+/* Boxed Items */
+
+.portfolio .portfolio-items div.boxed-item {
+    width: 210px;
+    padding: 0 10px 20px;
+    overflow: hidden;
+    background: transparent;
+    height: 210px;
+}
+
+.portfolio .portfolio-items div.boxed-item .item-inner {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background: #1a1a1a;
+}
+
+.portfolio.boxed .portfolio-items {
+    margin-bottom: 35px;
+}
+
+/* Item Details */
+
+.portfolio .portfolio-items .item a.work-image div.item-details {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    z-index: 3;
+    top: 50%;
+    left: 0;
+    opacity: 0;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.portfolio .portfolio-items .item a.work-image h1 {
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    -webkit-transform: translateY(-20px);
+    -moz-transform: translateY(-20px);
+    transform: translateY(-20px);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.portfolio .portfolio-items .item a.work-image span {
+    display: inline-block;
+    /*  border-top:1px solid white;
+    border-bottom:1px solid white; */
+    height: 6px;
+    width: 30px;
+    margin: 11px auto 5px;
+    color: white;
+}
+
+.portfolio .portfolio-items .item a.work-image p {
+    font-size: 17px;
+    color: #cdcdcd;
+    margin: 0;
+    padding: 0;
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    transform: translateY(20px);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+/* Item Rollover Styles */
+
+.portfolio .portfolio-items .item:hover a.work-image img {
+    opacity: 0.3;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.portfolio .portfolio-items .item:hover a.work-image div.item-details {
+    opacity: 1;
+}
+
+.portfolio .portfolio-items .item:hover a.work-image div.item-details h1 {
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+.portfolio .portfolio-items .item:hover a.work-image div.item-details p {
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+/* end portfolio css*/
+
+
+/* contact us*/
+/*Contact Us*/
+.form {
+    width: 100%;
+    padding: 15px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-bottom: 25px;
+    color: #727272 !important;
+    font-size: 17px;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+.form:hover {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.form:focus {
+    color: white;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.textarea {
+    height: 100px;
+    max-height: 100px;
+    max-width: 100%;
+}
+
+/* Send Button Styles */
+
+.form-btn {
+    width: 100%;
+    display: block;
+    height: auto;
+    padding: 15px;
+    color: #727272;
+    background: rgba(83, 83, 83, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    outline: none;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.form-btn:hover {
+    color: white;
+}
+
+.form-btn:active {
+    opacity: 0.9;
+}
+
+/*end contact us*/
+.parallax {
+    background-attachment: fixed !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
