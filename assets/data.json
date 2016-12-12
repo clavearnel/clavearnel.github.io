@@ -222,19 +222,6 @@
   },
   {
     "media": "y",
-    "type": "webapp",
-    "item": "17",
-    "startDate": "2014,2",
-    "endDate": "On going project",
-    "headline": "www.evomg.com: Music Delivery System",
-    "text": "Evolution Music Group, A system that will automate the delivery of metadata to iTunes, Xbox, Spotify, BloomFM, Google, etc.",
-    "asset": {
-      "images": "images/portfolio/projects/17",
-      "link": "confidential"
-    }
-  },
-  {
-    "media": "y",
     "type": "website",
     "item": "18",
     "startDate": "2014,11",
