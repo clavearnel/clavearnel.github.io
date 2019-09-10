@@ -1,0 +1,44 @@
+[
+	{
+		"linkDate": "01/11/2009",
+		"linkTitle": "Nov 2009",
+		"mainTitle": "Web Designer",
+		"mainDate": "November 2009 - Bridezilla Inc.",
+		"message": "Creates the look, layout, and features of a website. Help with maintenance and make sure site are up-to-date."
+	},
+	{
+		"linkDate": "01/07/2011",
+		"linkTitle": "Jul 2011",
+		"mainTitle": "Web Developer",
+		"mainDate": "July 2009 - Real-IT Web Solutions and Consultancy Corporations",
+		"message": "Create website with HTML/CSS practices. Working closely with web designers and programmer to produce website. Maintain software documentation, expanding/enhancing the website once built"
+	},
+	{
+		"linkDate": "01/05/2012",
+		"linkTitle": "May 2012",
+		"mainTitle": "Computer Programmer II",
+		"mainDate": "May 2012 - Department of Health Philippines (Head Office) doh.gov.ph",
+		"message": "Oversee the overall implementation of systems provided by Department of Health Philippines. Install relevant system needed in respective health facilites. Generate service statistics or other relevant reports requested by relevant and authorized offices. Orient and train personnel of local health facilities and drugstores on how to use EDPMS and related health information systems."
+	},
+	{
+		"linkDate": "01/01/2014",
+		"linkTitle": "Jan 2014",
+		"mainTitle": "Web Programmer / IT",
+		"mainDate": "January 2014 - Evolution Music Group",
+		"message": "Develop and Maintain (DAM) Digital Asset Management - delivery system that will generate music package depends of different platforms using DDEX standard. like: itunes, spotify, google music, youtube audio and video, deezer, Rdio, Xbox, BloomFm, Beats Music, KKbox. Royalty accounting & statistical system this will consolidate royalty payment from different platform like : itunes, spotify, google music, youtube art track and video, deezer, Rdio, Xbox, BloomFm, Beats Music, KKbox. Mymusic, Vevo, Noah, Linn Records, Tune Core, C & L, Avex, Omusic."
+	},
+	{
+		"linkDate": "01/12/2017",
+		"linkTitle": "Dec 2017",
+		"mainTitle": "Software Engineer (Senior Level)",
+		"mainDate": "Dec 2017 - AMDOCS (amdocs.com)",
+		"message": "Design, develop, modify, debug and/or maintain software code according to functional, non-functional and technical design specifications. Follow Amdocs software engineering standards, applicable software development methodology and release processes, to ensure code is maintainable, scalable, supportable and demo the software products to stakeholders. You will investigate issues by reviewing/debugging code, provides fixes and workarounds, and reviews changes for operability to maintain existing software solutions."
+	},
+	{
+		"linkDate": "01/05/2019",
+		"linkTitle": "May 2019",
+		"mainTitle": "Lead Software Developer",
+		"mainDate": "May 2019 - AMDOCS (amdocs.com)",
+		"message": "Provide technical leadership to software engineers by coaching and mentoring throughout end-to-end software development, maintenance, and lifecycle to achieve project goals to the required level of quality; promote team engagement and motivation. Provide hands-on technical and functional input to design, maintenance, build, integration and testing of complex software components according to functional and technical design specifications; Follow software development methodologies and release processe. Analyze and provide input for the requirements and provide impact assessment for new features or bug fixes. Make high-level design and establishes technical standards. Represent and lead discussions related to product/application/modules/team and build relationships with internal customers/stakeholders"
+	}
+]

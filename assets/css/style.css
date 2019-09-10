@@ -1,4 +1,7 @@
 /*basic*/
+body{
+    overflow: hidden;
+}
 p{
     font-family: "Source Sans Pro",sans-serif;
     line-height: 1.5;
@@ -236,6 +239,7 @@ h2 {
     padding-top: 80px;
     padding-bottom: 50px;
     width: 100%;
+    height:100vh;
 }
 
 .homepage {
@@ -334,7 +338,6 @@ svg#bigTriangleColor {
     color: white;
 }
 
-
 .copyrights {
     text-align: center;
     font-size: .8em;
@@ -401,7 +404,6 @@ svg#bigTriangleColor {
     min-height: 400px;
     background: transparent;
 }
-
 
 /*footer*/
 .footer{

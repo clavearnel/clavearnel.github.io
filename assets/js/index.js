@@ -1,3 +1,8 @@
+
+$(document).ready(function(){
+  
+});
+
 $('.navbar, #backtotop').hide();
 /*home max height*/
 var h = $(window).height();
