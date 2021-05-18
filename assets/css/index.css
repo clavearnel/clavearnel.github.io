@@ -1,5 +1,6 @@
 /*Home*/
 
+
 /*overlay section with stripes*/
 
 .bg-overlay {
@@ -10,6 +11,7 @@
 .logo {
     padding-top: 10%;
 }
+
 
 /*home bg animation */
 
@@ -57,6 +59,7 @@
         background-position: -31000px 0;
     }
 }
+
 #animate-area img {
     width: 100%;
     height: 100%;
@@ -69,7 +72,8 @@
     top: 0;
     bottom: 0;
     left: 0;
-    z-index: -1;background-size: cover;
+    z-index: -1;
+    background-size: cover;
     background-image: url(../images/bg-home1.jpg);
     background-position: 0px 0px;
     background-repeat: repeat-x;
@@ -79,6 +83,7 @@
     -ms-animation: animatedBackground 666s linear infinite;
     -o-animation: animatedBackground 666s linear infinite;
 }
+
 .home-content {
     /* position: absolute; */
     /* left: 50%; */
@@ -125,106 +130,124 @@
     margin: 20px 0 40px;
 }
 
+
 /* end home*/
+
+
 /* About Icon Styles */
+
+
 /* About */
 
-.pic{
+.pic {
     text-align: center;
 }
 
-.pic div{
+.pic div {
     display: block;
     padding: 6px;
 }
 
-.pic img{
+.pic img {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
 }
 
-.pic img{
+.pic img {
     border: solid #2a2d38 5px;
 }
 
-.about a:hover{
-    color:#2a2d38;
+.about a:hover {
+    color: #2a2d38;
 }
+
+
 /*skills*/
-.package{
+
+.package {
     text-align: center;
 }
 
-.package div{
+.package div {
     display: block;
     padding: 10px;
 }
 
-.package .circle1{
+.package .circle1 {
     position: relative;
     margin: 0 auto;
-    border:1px dashed #000000;
+    border: 1px dashed #000000;
     width: 117px;
     height: 117px;
     padding: 0;
 }
-.package .circle2{
+
+.package .circle2 {
     position: relative;
     background: #2a2d38;
     width: 100px;
     height: 100px;
     margin: 7px;
     padding: 10px;
-    border:none;
+    border: none;
 }
-.package .circle3{
+
+.package .circle3 {
     position: relative;
     background: transparent;
-    border:1px dashed #ffffff;
+    border: 1px dashed #ffffff;
     width: 80px;
     height: 80px;
     color: #ffffff;
     text-align: center;
 }
+
 .package .circle1,
 .package .circle2,
-.package .circle3{
+.package .circle3 {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
 }
-.circle3 h1{
+
+.circle3 h1 {
     font-size: 33px;
 }
-.circle3 p{
+
+.circle3 p {
     font-size: 12px;
     font-weight: 500;
 }
-.package ul{
+
+.package ul {
     margin-top: 5px;
-    padding:0 0 15px 0;
+    padding: 0 0 15px 0;
     list-style-type: none;
 }
-.package ul li{
-    padding:5px 0 5px 0;
+
+.package ul li {
+    padding: 5px 0 5px 0;
     font-weight: 400;
 }
+
 .package .tittle {
     border-left: none;
     border-right: none;
-    border-top:1px solid #2a2d38;
+    border-top: 1px solid #2a2d38;
     border-bottom: 1px solid #2a2d38;
     margin: 30px 40px 20px 40px;
     padding: 0 20px 8px;
     display: block;
 }
-.package .tittle h6{
+
+.package .tittle h6 {
     padding: 0;
     margin: 4px 0 0 0;
     display: inline-block;
 }
-.package .tittle span{
+
+.package .tittle span {
     display: block;
     width: 80px;
     text-align: center;
@@ -232,40 +255,58 @@
     background: #F5F5F5;
     font-size: 10px;
 }
-.package .tittle span i{
+
+.package .tittle span i {
     letter-spacing: 5px;
 }
-.package .tittle span i:last-child{
+
+.package .tittle span i:last-child {
     letter-spacing: 0;
 }
 
-.package:hover div{
+.package:hover div {
     background: #ffffff;
 }
 
-.package:hover .tittle span{
+.package:hover .tittle span {
     background: #ffffff;
     color: #ee3448;
 }
-.package:hover .btn-light{
+
+.package:hover .btn-light {
     background: #ee3448;
     color: #ffffff;
 }
+
+
 /*end skills*/
+
+
 /*Timeline*/
+
 .cd-horizontal-timeline .events a:hover {
     text-decoration: none;
     font-size: 110%;
 }
-.timeline_section_title{
-    color:white;
+
+.timeline_section_title {
+    color: white;
 }
-.events-content ol li, .events-wrapper .events ol li{
+
+.events-content ol li,
+.events-wrapper .events ol li {
     list-style-type: none;
 }
+
+
 /*end timeline*/
+
+
 /*Portfolio*/
+
+
 /* Portfolio Filters */
+
 .filter-menu {
     text-align: center;
     margin: 15px auto 30px;
@@ -308,6 +349,7 @@
     color: white;
 }
 
+
 /* Portfolio Items */
 
 .portfolio .portfolio-items {
@@ -333,14 +375,15 @@
     transition: all 0.5s;
 }
 
+
 /* Boxed Items */
 
 .portfolio .portfolio-items div.boxed-item {
-    width: 210px;
-    padding: 0 10px 20px;
+    width: 150px;
+    padding: 0 10px 10px;
     overflow: hidden;
     background: transparent;
-    height: 210px;
+    height: 150px;
 }
 
 .portfolio .portfolio-items div.boxed-item .item-inner {
@@ -354,6 +397,7 @@
 .portfolio.boxed .portfolio-items {
     margin-bottom: 35px;
 }
+
 
 /* Item Details */
 
@@ -409,6 +453,7 @@
     transition: all 0.5s;
 }
 
+
 /* Item Rollover Styles */
 
 .portfolio .portfolio-items .item:hover a.work-image img {
@@ -435,10 +480,15 @@
     transform: translateY(0px);
 }
 
+
 /* end portfolio css*/
 
+
 /* contact us*/
+
+
 /*Contact Us*/
+
 .form {
     width: 100%;
     padding: 15px;
@@ -468,6 +518,7 @@
     max-width: 100%;
 }
 
+
 /* Send Button Styles */
 
 .form-btn {
@@ -492,7 +543,9 @@
     opacity: 0.9;
 }
 
+
 /*end contact us*/
+
 .parallax {
     background-attachment: fixed !important;
     background-position: center center;

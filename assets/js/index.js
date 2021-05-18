@@ -1,6 +1,5 @@
+$(document).ready(function() {
 
-$(document).ready(function(){
-  
 });
 
 $('.navbar, #backtotop').hide();
@@ -9,7 +8,7 @@ var h = $(window).height();
 $(".home .logo").css("height", h);
 
 /*navbar and backtotop show on scroll*/
-$(window).scroll(function () {
+$(window).scroll(function() {
     if ($(this).scrollTop() > 200) {
         $('.navbar, #backtotop').fadeIn(500);
     } else {
@@ -17,9 +16,9 @@ $(window).scroll(function () {
     }
 });
 /*render data from data.json*/
-$.getJSON('assets/data.json', function (data) {
+$.getJSON('assets/data.json', function(data) {
     var output = '';
-    $.each(data, function (key, val) {
+    $.each(data, function(key, val) {
         console.log(val.type)
         if (val.media == "y") {
             output += '<div class="item boxed-item col-xs-4 ' + val.type + '">';
@@ -43,14 +42,14 @@ $.getJSON('assets/data.json', function (data) {
 function masonry() {
     var $container = $('.portfolio-items');
     $container.isotope({
-        //masonry: { columnWidth: $container.width() / 5 },
+        masonry: { columnWidth: $container.width() / 6 },
         itemSelector: '.item',
         filter: '' +
-        '.website',
+            '.website',
     });
     var $optionSets = $('#options .option-set'),
         $optionLinks = $optionSets.find('a');
-    $optionLinks.click(function () {
+    $optionLinks.click(function() {
         var $this = $(this);
         // don't proceed if already selected
         if ($this.hasClass('selected')) {
@@ -78,13 +77,11 @@ function masonry() {
 }
 
 /*animated effect on scroll*/
-wow = new WOW(
-    {
-        boxClass:     'wow',      // default
-        animateClass: 'animated', // default
-        offset:       200,          // default
-        mobile:       true,       // default
-        live:         true        // default
-    }
-)
+wow = new WOW({
+    boxClass: 'wow', // default
+    animateClass: 'animated', // default
+    offset: 200, // default
+    mobile: true, // default
+    live: true // default
+})
 wow.init();

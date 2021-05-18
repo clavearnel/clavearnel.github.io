@@ -1,353 +1,365 @@
-[
-  {
-    "media": "y",
-    "type": "website",
-    "item": "1",
-    "startDate": "2010,5",
-    "endDate": "2010,6",
-    "headline": "Unitedalbums wedding albums",
-    "text": "Unitedalbums is a company that will create your wedding memories into a remarkable album.",
-    "asset": {
-      "images": "images/portfolio/projects/1",
-      "link": "<a href='http://www.unitedalbums.com'>www.unitedalbums.com</a>"
+[{
+        "media": "y",
+        "type": "website",
+        "item": "1",
+        "startDate": "2010,5",
+        "endDate": "2010,6",
+        "headline": "Unitedalbums wedding albums",
+        "text": "Unitedalbums is a company that will create your wedding memories into a remarkable album.",
+        "asset": {
+            "images": "images/portfolio/projects/1",
+            "link": "<a href='http://www.unitedalbums.com'>www.unitedalbums.com</a>"
+        }
+    },
+    {
+        "media": "n",
+        "type": "webapp",
+        "item": "2",
+        "startDate": "2010,6",
+        "endDate": "2010,8",
+        "headline": "Unitedalbums subsystem FTP upload monitoring system.",
+        "text": "A system that will display list of uploaded images of studio photographer.",
+        "asset": {
+            "images": "images/portfolio/projects/2",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "3",
+        "startDate": "2010,7",
+        "endDate": "2010,8",
+        "headline": "Unitedalbums subsystem Request System",
+        "text": "A system that will records and monitor requested prints from US office to Phils Manufacturing.",
+        "asset": {
+            "images": "images/portfolio/projects/3",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "4",
+        "startDate": "2010,10",
+        "endDate": "2010,10",
+        "headline": "Unitedalbums subsystem Phone Call Monitoring System",
+        "text": "A system that will store conversation of call center agent from phils to US Clients.",
+        "asset": {
+            "images": "images/portfolio/projects/4",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "5",
+        "startDate": "2010,12",
+        "endDate": "2010,12",
+        "headline": "casispensionnehouse.com",
+        "text": "casispensionnehouse is a pensionne house located in palawan philippines.",
+        "asset": {
+            "images": "images/portfolio/projects/5",
+            "link": "<a href='http://www.casispensionnehouse.com'>www.casispensionnehouse.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "6",
+        "startDate": "2011,1",
+        "endDate": "2011,2",
+        "headline": "unitedalbums subsystem English to Hebrew Converter",
+        "text": "A system convert english characters to Hebrew to help production in generating imprints in wedding albums.",
+        "asset": {
+            "images": "images/portfolio/projects/6",
+            "link": ""
+        }
+    },
+    {
+        "media": "n",
+        "type": "webapp",
+        "item": "7",
+        "startDate": "2011,1",
+        "endDate": "2011,2",
+        "headline": "studioseasoning.com IPhone PHP Image Web Service",
+        "text": "A script written in PHP that will render JSON result and access by IPhone studioseasoning apps.",
+        "asset": {
+            "images": "images/portfolio/projects/7",
+            "link": "<a href='http://www.studioseasoning.com'>www.studioseasoning.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "8",
+        "startDate": "2011,4",
+        "endDate": "2011,6",
+        "headline": "unitedalbums subsystem Build Your Own Album",
+        "text": "A system that will design your wedding albums.",
+        "asset": {
+            "images": "images/portfolio/projects/8",
+            "link": "<a href='http://www.unitedalbums.com'>www.unitedalbums.com</a>"
+        }
+    },
+    {
+        "media": "n",
+        "type": "website",
+        "item": "9",
+        "startDate": "2011,5",
+        "endDate": "2011,5",
+        "headline": "unitedalbums script for Joomla Plugin: Get UserId",
+        "text": "A Joomla plugin that will generate unitedalbums client id for online ordering system.",
+        "asset": {
+            "images": "images/portfolio/projects/9",
+            "link": ""
+        }
+    },
+    {
+        "media": "n",
+        "type": "website",
+        "item": "10",
+        "startDate": "2011,8",
+        "endDate": "2011,8",
+        "headline": "kabayandreamhouse.com",
+        "text": "Real Estate website under by Sentosa Real Estate.",
+        "asset": {
+            "images": "images/portfolio/projects/10",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "11",
+        "startDate": "2011,9",
+        "endDate": "2011,9",
+        "headline": "fcytravel.com",
+        "text": "Travel Agency website.",
+        "asset": {
+            "images": "images/portfolio/projects/11",
+            "link": ""
+        }
+    },
+    {
+        "media": "n",
+        "type": "webapp",
+        "item": "12",
+        "startDate": "2012,3",
+        "endDate": "60% on developement",
+        "headline": "(Open Source) Start developing of Generic Payroll System for Philippines Settings ",
+        "text": "This payroll system develop using codeigniter a PHP framework.",
+        "asset": {
+            "images": "images/portfolio/projects/12",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "28",
+        "startDate": "2012,7",
+        "endDate": "2012,7",
+        "headline": "Nextgen Innovations job search",
+        "text": "Job search engine.",
+        "asset": {
+            "images": "images/portfolio/projects/12",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "13",
+        "startDate": "2012,6",
+        "endDate": "2013,10",
+        "headline": "System Develop under DEPARTMENT OF HEALTH PHILIPPINES",
+        "text": "Department of Health projects created and maintained",
+        "asset": {
+            "images": "images/portfolio/projects/13",
+            "link": "<a href='http://www.doh.gov.ph'>www.doh.gov.ph</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "14",
+        "startDate": "2013,1",
+        "endDate": "2013,1",
+        "headline": "Puerto Verde Travel and Tours",
+        "text": "Travel agency for Palawan Tours.",
+        "asset": {
+            "images": "images/portfolio/projects/14",
+            "link": "<a href='http://puertoverdetraveltours.com'>www.puertoverdertraveltours.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "15",
+        "startDate": "2014,1",
+        "endDate": "2014,2",
+        "headline": "www.kasialins.com",
+        "text": "A soul and jazz singer/songwriter from Poznan, Poland.",
+        "asset": {
+            "images": "images/portfolio/projects/15",
+            "link": ""
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "16",
+        "startDate": "2014,2",
+        "endDate": "201,2",
+        "headline": "www.evomg.com",
+        "text": "Evolution Music Group, Asia’s most successful independent music master licensing company.",
+        "asset": {
+            "images": "images/portfolio/projects/16",
+            "link": "<a href='http://evomg.com'>www.evomg.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "18",
+        "startDate": "2014,11",
+        "endDate": "",
+        "headline": "chlara.com",
+        "text": "Music artist based in Philippines.",
+        "asset": {
+            "images": "images/portfolio/projects/18",
+            "link": "<a href='http://chlara.com'>www.chlara.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "19",
+        "startDate": "2014,12",
+        "endDate": "",
+        "headline": "kashykeegan.com",
+        "text": "Music artist based in Hong Kong.",
+        "asset": {
+            "images": "images/portfolio/projects/19",
+            "link": "<a href='http://kashykeegan.com'>www.kashykeegan.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "20",
+        "startDate": "2015,5",
+        "endDate": "2015,5",
+        "headline": "evosound.com",
+        "text": "recreate the evosound.com due to the old version of joomla and DDOS attacks.",
+        "asset": {
+            "images": "images/portfolio/projects/20",
+            "link": "<a href='http://evosound.com'>www.evosound.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "21",
+        "startDate": "2015,6",
+        "endDate": "2015,6",
+        "headline": "connietalbot.asia",
+        "text": "recreate the connietalbot.asia due to the old version of joomla and DDOS attacks.",
+        "asset": {
+            "images": "images/portfolio/projects/21",
+            "link": "<a href='http://connietalbot.asia'>www.connietalbot.asia</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "22",
+        "startDate": "2015,7",
+        "endDate": "2015,7",
+        "headline": "susanwong.net",
+        "text": "recreate the susanwong.net due to the old version of joomla and DDOS attacks.",
+        "asset": {
+            "images": "images/portfolio/projects/22",
+            "link": "<a href='http://susanwong.net'>www.susanwong.net</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "23",
+        "startDate": "2015,8",
+        "endDate": "2015,8",
+        "headline": "alborosie.com",
+        "text": "create splash page for: alborosie.com.",
+        "asset": {
+            "images": "images/portfolio/projects/23",
+            "link": "<a href='http://alborosie.com'>www.alborosie.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "24",
+        "startDate": "2015,8",
+        "endDate": "2015,8",
+        "headline": "themacs.co",
+        "text": "create splash page for: themacs.co.",
+        "asset": {
+            "images": "images/portfolio/projects/24",
+            "link": "<a href='http://themacs.co'>www.themacs.co</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "25",
+        "startDate": "2015,8",
+        "endDate": "2015,8",
+        "headline": "evokids.com",
+        "text": "create splash page for: evokids.com.",
+        "asset": {
+            "images": "images/portfolio/projects/25",
+            "link": "<a href='http://evokids.com'>www.evokids.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "26",
+        "startDate": "2015,8",
+        "endDate": "2015,8",
+        "headline": "evoconcert.com",
+        "text": "create splash page for: evoconcert.com.",
+        "asset": {
+            "images": "images/portfolio/projects/26",
+            "link": "<a href='http://evoconcert.com'>www.evoconcert.com</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "website",
+        "item": "27",
+        "startDate": "2015,8",
+        "endDate": "2015,8",
+        "headline": "brazilparty",
+        "text": "dance hits music for fifa 2014.",
+        "asset": {
+            "images": "images/portfolio/projects/26",
+            "link": "<a href='http://evomg.com/brazilparty/'>brazilparty/</a>"
+        }
+    },
+    {
+        "media": "y",
+        "type": "webapp",
+        "item": "29",
+        "startDate": "2017,12",
+        "endDate": "2021,12",
+        "headline": "amdocs",
+        "text": "Leading telco IT service in the world.",
+        "asset": {
+            "images": "images/portfolio/projects/29",
+            "link": "<a href='http://amdocs.com'>amdocs/</a>"
+        }
     }
-  },
-  {
-    "media": "n",
-    "type": "webapp",
-    "item": "2",
-    "startDate": "2010,6",
-    "endDate": "2010,8",
-    "headline": "Unitedalbums subsystem FTP upload monitoring system.",
-    "text": "A system that will display list of uploaded images of studio photographer.",
-    "asset": {
-      "images": "images/portfolio/projects/2",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "3",
-    "startDate": "2010,7",
-    "endDate": "2010,8",
-    "headline": "Unitedalbums subsystem Request System",
-    "text": "A system that will records and monitor requested prints from US office to Phils Manufacturing.",
-    "asset": {
-      "images": "images/portfolio/projects/3",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "4",
-    "startDate": "2010,10",
-    "endDate": "2010,10",
-    "headline": "Unitedalbums subsystem Phone Call Monitoring System",
-    "text": "A system that will store conversation of call center agent from phils to US Clients.",
-    "asset": {
-      "images": "images/portfolio/projects/4",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "5",
-    "startDate": "2010,12",
-    "endDate": "2010,12",
-    "headline": "casispensionnehouse.com",
-    "text": "casispensionnehouse is a pensionne house located in palawan philippines.",
-    "asset": {
-      "images": "images/portfolio/projects/5",
-      "link": "<a href='http://www.casispensionnehouse.com'>www.casispensionnehouse.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "6",
-    "startDate": "2011,1",
-    "endDate": "2011,2",
-    "headline": "unitedalbums subsystem English to Hebrew Converter",
-    "text": "A system convert english characters to Hebrew to help production in generating imprints in wedding albums.",
-    "asset": {
-      "images": "images/portfolio/projects/6",
-      "link": ""
-    }
-  },
-  {
-    "media": "n",
-    "type": "webapp",
-    "item": "7",
-    "startDate": "2011,1",
-    "endDate": "2011,2",
-    "headline": "studioseasoning.com IPhone PHP Image Web Service",
-    "text": "A script written in PHP that will render JSON result and access by IPhone studioseasoning apps.",
-    "asset": {
-      "images": "images/portfolio/projects/7",
-      "link": "<a href='http://www.studioseasoning.com'>www.studioseasoning.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "8",
-    "startDate": "2011,4",
-    "endDate": "2011,6",
-    "headline": "unitedalbums subsystem Build Your Own Album",
-    "text": "A system that will design your wedding albums.",
-    "asset": {
-      "images": "images/portfolio/projects/8",
-      "link": "<a href='http://www.unitedalbums.com'>www.unitedalbums.com</a>"
-    }
-  },
-  {
-    "media": "n",
-    "type": "website",
-    "item": "9",
-    "startDate": "2011,5",
-    "endDate": "2011,5",
-    "headline": "unitedalbums script for Joomla Plugin: Get UserId",
-    "text": "A Joomla plugin that will generate unitedalbums client id for online ordering system.",
-    "asset": {
-      "images": "images/portfolio/projects/9",
-      "link": ""
-    }
-  },
-  {
-    "media": "n",
-    "type": "website",
-    "item": "10",
-    "startDate": "2011,8",
-    "endDate": "2011,8",
-    "headline": "kabayandreamhouse.com",
-    "text": "Real Estate website under by Sentosa Real Estate.",
-    "asset": {
-      "images": "images/portfolio/projects/10",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "11",
-    "startDate": "2011,9",
-    "endDate": "2011,9",
-    "headline": "fcytravel.com",
-    "text": "Travel Agency website.",
-    "asset": {
-      "images": "images/portfolio/projects/11",
-      "link": ""
-    }
-  },
-  {
-    "media": "n",
-    "type": "webapp",
-    "item": "12",
-    "startDate": "2012,3",
-    "endDate": "60% on developement",
-    "headline": "(Open Source) Start developing of Generic Payroll System for Philippines Settings ",
-    "text": "This payroll system develop using codeigniter a PHP framework.",
-    "asset": {
-      "images": "images/portfolio/projects/12",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "28",
-    "startDate": "2012,7",
-    "endDate": "2012,7",
-    "headline": "Nextgen Innovations job search",
-    "text": "Job search engine.",
-    "asset": {
-      "images": "images/portfolio/projects/12",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "13",
-    "startDate": "2012,6",
-    "endDate": "2013,10",
-    "headline": "System Develop under DEPARTMENT OF HEALTH PHILIPPINES",
-    "text": "Department of Health projects created and maintained",
-    "asset": {
-      "images": "images/portfolio/projects/13",
-      "link": "<a href='http://www.doh.gov.ph'>www.doh.gov.ph</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "14",
-    "startDate": "2013,1",
-    "endDate": "2013,1",
-    "headline": "Puerto Verde Travel and Tours",
-    "text": "Travel agency for Palawan Tours.",
-    "asset": {
-      "images": "images/portfolio/projects/14",
-      "link": "<a href='http://puertoverdetraveltours.com'>www.puertoverdertraveltours.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "15",
-    "startDate": "2014,1",
-    "endDate": "2014,2",
-    "headline": "www.kasialins.com",
-    "text": "A soul and jazz singer/songwriter from Poznan, Poland.",
-    "asset": {
-      "images": "images/portfolio/projects/15",
-      "link": ""
-    }
-  },
-  {
-    "media": "y",
-    "type": "webapp",
-    "item": "16",
-    "startDate": "2014,2",
-    "endDate": "201,2",
-    "headline": "www.evomg.com",
-    "text": "Evolution Music Group, Asia’s most successful independent music master licensing company.",
-    "asset": {
-      "images": "images/portfolio/projects/16",
-      "link": "<a href='http://evomg.com'>www.evomg.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "18",
-    "startDate": "2014,11",
-    "endDate": "",
-    "headline": "chlara.com",
-    "text": "Music artist based in Philippines.",
-    "asset": {
-      "images": "images/portfolio/projects/18",
-      "link": "<a href='http://chlara.com'>www.chlara.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "19",
-    "startDate": "2014,12",
-    "endDate": "",
-    "headline": "kashykeegan.com",
-    "text": "Music artist based in Hong Kong.",
-    "asset": {
-      "images": "images/portfolio/projects/19",
-      "link": "<a href='http://kashykeegan.com'>www.kashykeegan.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "20",
-    "startDate": "2015,5",
-    "endDate": "2015,5",
-    "headline": "evosound.com",
-    "text": "recreate the evosound.com due to the old version of joomla and DDOS attacks.",
-    "asset": {
-      "images": "images/portfolio/projects/20",
-      "link": "<a href='http://evosound.com'>www.evosound.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "21",
-    "startDate": "2015,6",
-    "endDate": "2015,6",
-    "headline": "connietalbot.asia",
-    "text": "recreate the connietalbot.asia due to the old version of joomla and DDOS attacks.",
-    "asset": {
-      "images": "images/portfolio/projects/21",
-      "link": "<a href='http://connietalbot.asia'>www.connietalbot.asia</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "22",
-    "startDate": "2015,7",
-    "endDate": "2015,7",
-    "headline": "susanwong.net",
-    "text": "recreate the susanwong.net due to the old version of joomla and DDOS attacks.",
-    "asset": {
-      "images": "images/portfolio/projects/22",
-      "link": "<a href='http://susanwong.net'>www.susanwong.net</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "23",
-    "startDate": "2015,8",
-    "endDate": "2015,8",
-    "headline": "alborosie.com",
-    "text": "create splash page for: alborosie.com.",
-    "asset": {
-      "images": "images/portfolio/projects/23",
-      "link": "<a href='http://alborosie.com'>www.alborosie.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "24",
-    "startDate": "2015,8",
-    "endDate": "2015,8",
-    "headline": "themacs.co",
-    "text": "create splash page for: themacs.co.",
-    "asset": {
-      "images": "images/portfolio/projects/24",
-      "link": "<a href='http://themacs.co'>www.themacs.co</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "25",
-    "startDate": "2015,8",
-    "endDate": "2015,8",
-    "headline": "evokids.com",
-    "text": "create splash page for: evokids.com.",
-    "asset": {
-      "images": "images/portfolio/projects/25",
-      "link": "<a href='http://evokids.com'>www.evokids.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "26",
-    "startDate": "2015,8",
-    "endDate": "2015,8",
-    "headline": "evoconcert.com",
-    "text": "create splash page for: evoconcert.com.",
-    "asset": {
-      "images": "images/portfolio/projects/26",
-      "link": "<a href='http://evoconcert.com'>www.evoconcert.com</a>"
-    }
-  },
-  {
-    "media": "y",
-    "type": "website",
-    "item": "27",
-    "startDate": "2015,8",
-    "endDate": "2015,8",
-    "headline": "brazilparty",
-    "text": "dance hits music for fifa 2014.",
-    "asset": {
-      "images": "images/portfolio/projects/26",
-      "link": "<a href='http://evomg.com/brazilparty/'>brazilparty/</a>"
-    }
-  }
 ]
